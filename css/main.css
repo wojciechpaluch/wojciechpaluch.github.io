@@ -227,4 +227,14 @@ code {
 .btn p a:hover {
     color: #CCC; }
 
+#contact {
+    background-color: lavender ;
+
+}
+
+#contact h2 {
+    padding: 15%;
+
+}
+
 /*# sourceMappingURL=main.css.map */
